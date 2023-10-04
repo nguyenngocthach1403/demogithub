@@ -1,7 +1,7 @@
 import 'package:demo_material_app/detail_screen.dart';
 import 'package:demo_material_app/index_screen.dart';
 import 'package:flutter/material.dart';
-
+// tung hu hu 
 class BottomMenu extends StatelessWidget {
   const BottomMenu({super.key, required this.idx});
   final idx;
